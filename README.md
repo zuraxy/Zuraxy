@@ -1,9 +1,9 @@
 <h1 align="center">⭐️Zuraxy⭐️</h1>
 
-<p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></p>
+<p><img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></p>
 
-<br><br><br><br><br><br><br>
+<br>
 
 ## 🌱 Currently learning 🎯
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
