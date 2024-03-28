@@ -13,6 +13,7 @@
 ![HTML] (https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black)
 ![CSS] (https://img.shields.io/badge/CSS-peach?style=for-the-badge&logo=CSS3&logoColor=black)
 ![Python] (https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
 
 
 <!--
