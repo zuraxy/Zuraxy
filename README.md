@@ -1,4 +1,6 @@
-### Hi there 👋
+# ⭐️⭐️⭐️
+
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=React" alt="Zuraxy" /></p>
 
 <!--
 **zuraxy/Zuraxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
