@@ -1,6 +1,7 @@
 <h1 align="center">⭐️Zuraxy⭐️</h1>
 
-<p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></p>
+<p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></p>
 
 <br><br><br><br><br><br><br>
 
