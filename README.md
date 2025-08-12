@@ -1,6 +1,6 @@
 <h1 align="center">⭐️Zuraxy⭐️</h1>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="Zuraxy"></p>
+<p><img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></p>
 
 <br>
