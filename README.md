@@ -1,8 +1,12 @@
 <h1 align="center">⭐️Zuraxy⭐️</h1>
 
+![Quote](https://github.com/user-attachments/assets/359be7f4-2af4-42bb-8728-0a15354731c7)
+
 <p><img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></p>
 
+
+<!--
 <br>
 
 ## 🌱 Currently learning 🎯
@@ -22,7 +26,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-gray?style=for-the-badge&logo=SublimeText&logoColor=orange)
 ![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black)
-
+-->
 <!--
 **zuraxy/Zuraxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
