@@ -3,6 +3,7 @@
 ![Quote](https://github.com/user-attachments/assets/359be7f4-2af4-42bb-8728-0a15354731c7)
 
 <center><img align="left" src="https://readmestats.999857.xyz/api?username=Zuraxy&show_icons=true&locale=en&theme=blue-green" alt="Zuraxy"></center>
+<br>
 <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuraxy&theme=blue-green" alt="zuraxy"></center>
 
 
