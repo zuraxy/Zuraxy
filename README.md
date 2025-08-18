@@ -12,12 +12,12 @@
 <table>
   <tr>
     <td width="70%">
-      <img src="https://raw.githubusercontent.com/zuraxy/zuraxy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+      <img src="https://raw.githubusercontent.com/zuraxy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
     </td>
     <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/zuraxy/zuraxy/main/profile-summary-card-output/2077/3-stats.svg" width="300" alt="Stats radar" />
+      <img src="https://raw.githubusercontent.com/zuraxy/main/profile-summary-card-output/2077/3-stats.svg" width="300" alt="Stats radar" />
       <br />
-      <img src="https://raw.githubusercontent.com/zuraxy/zuraxy/main/profile-summary-card-output/2077/2-most-commit-language.svg" width="300" alt="Most used (commits)" />
+      <img src="https://raw.githubusercontent.com/zuraxy/main/profile-summary-card-output/2077/2-most-commit-language.svg" width="300" alt="Most used (commits)" />
     </td>
   </tr>
 </table>
@@ -43,7 +43,6 @@
     </td>
   </tr>
 </table>
-
 <!--
 **zuraxy/Zuraxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
